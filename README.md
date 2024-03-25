@@ -16,4 +16,4 @@ hadoop datanode -format -clusterId XXXXXXXXX (You must copy the value to replace
 start-all.cmd
 stop-all.cmd
 
-![Video_Youtube](https://youtu.be/DMu42Bk5i0k)
+[Video_Youtube](https://youtu.be/DMu42Bk5i0k)
