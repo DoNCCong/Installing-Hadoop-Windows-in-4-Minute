@@ -9,7 +9,9 @@ Link Dowload:
 3. Type the command:
 
 hadoop version
+
 hadoop namenode -format -clusterId XXXXXXXXX (You must copy the value to replace XXXXXXXXX)
+
 hadoop datanode -format -clusterId XXXXXXXXX (You must copy the value to replace XXXXXXXXX)
 
 4. Open the "sbin" folder:
