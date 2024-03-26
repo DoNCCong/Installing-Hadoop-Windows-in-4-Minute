@@ -12,9 +12,9 @@ Link Dowload: https://drive.google.com/file/d/1BCZUQgrRz69LsE3KExThw2-jMyKO4con/
 
 hadoop version
 
-hadoop namenode -format -clusterId XXXXXXXXX (You must copy the value to replace XXXXXXXXX)
+hadoop namenode -format -clusterID XXXXXXXXX (You must copy the value to replace XXXXXXXXX)
 
-hadoop datanode -format -clusterId XXXXXXXXX (You must copy the value to replace XXXXXXXXX)
+hadoop datanode -format -clusterID XXXXXXXXX (You must copy the value to replace XXXXXXXXX)
 
 4. Open the "sbin" folder:
 
